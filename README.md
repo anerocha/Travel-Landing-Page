@@ -8,7 +8,7 @@ Este projeto é uma página de destino (landing page) para uma empresa de viagen
 - **CSS:** Estilização da página, incluindo estilos globais, responsividade e efeitos visuais.
 - **JavaScript:** Animações e interatividade, como fade-in e efeitos de hover.
 
-![Captura de Tela](images/travel.png)
+![Captura de Tela](images/travel.PNG)
 
 ## Sobre o Desenvolvedor
 
